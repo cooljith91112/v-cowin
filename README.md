@@ -12,7 +12,10 @@ If you need more details on the availability run
 v run ./find_session 13-08-2021
 //Press enter to increment dates
 ```
-<span style="color:red">Important<span> District Code is hardcoded to **Thiruvananthapuram**
+
+```diff
+- *Important<span> District Code is hardcoded to **Thiruvananthapuram*
+```
 
 ### TODO
 - [ ]  UI Formating
