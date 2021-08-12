@@ -144,8 +144,7 @@ fn (mut app App) find_session(district_id int,date string) {
 		return
 	}
 
-	app.data.available_sessions = session_data.sessions
-											.filter( it.available_capacity > 0 && it.min_age_limit<45)
+	app.data.available_sessions = session_data.sessions.filter( it.available_capacity > 0 && it.min_age_limit<45)
 	app.is_loading = false
 }
 
