@@ -14,7 +14,7 @@ v run ./find_session 13-08-2021
 ```
 
 ```diff
-- *Important<span> District Code is hardcoded to **Thiruvananthapuram*
+- Important<span> District Code is hardcoded to Thiruvananthapuram
 ```
 
 ### TODO
