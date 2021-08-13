@@ -12,11 +12,6 @@ If you need more details on the availability run
 v run ./find_session 13-08-2021
 //Press enter to increment dates
 ```
-
-```diff
-- Important: District Code is hardcoded to Thiruvananthapuram
-```
-
 ### TODO
 - [ ]  UI Formating
 - [ ]  User Input for State & District
