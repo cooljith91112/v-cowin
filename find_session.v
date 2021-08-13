@@ -231,7 +231,6 @@ fn setup_states() {
 	println(term.header('Available State', '='))
 	start_x :=  width/2 - 10
 	mut start_y := 5
-	mut selected_state := 0
     term.set_cursor_position(x: start_x, y: start_y)
 
 	states := get_states() or {
