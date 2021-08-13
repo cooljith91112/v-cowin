@@ -14,7 +14,7 @@ v run ./find_session 13-08-2021
 ```
 ### TODO
 - [ ]  UI Formating
-- [ ]  User Input for State & District
+- [x]  User Input for State & District
 - [ ]  Filter Free & Paid
 
 ### !!Disclaimer
